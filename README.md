@@ -700,3 +700,14 @@ N.    ¿Salesforce es un ERP?
 
   </details>
 
+
+ # **EJERCICIO 7**
+ 
+Solicitar a ariel.tarsitano@procontacto.com.mx el archivo CSV de importación para realizar este ejercicio.
+
+Instalar la herramienta dataloader para mac o windows.
+
+Importar el archivo obtenido del playground utilizado para resolver el ejercicio 4 y agregar los siguientes screenshots a github. 
+
+1.	Paso a paso del proceso para mostrar cómo fue realizado.
+2.	Un listado que solo muestre las cuentasimportadas, que la lista muestre una columna por cada columna del CSV. Si no se alcanza ver por el ancho de la pantalla, tomar varios screenshots.
